@@ -1,0 +1,84 @@
+Statistics (informally) : The art and science of collectin, analuzing, presenting, and interpreting data
+  Descriptive: Concerned with the grapical techniques for describing some characteristcs of the data
+  Inferential: Make inferences about a data set based on information obtained from a sample. The information
+    used to make these inferences is some type of descriptive statistic
+
+Population: Largest set of subjects/elements that you want to make inferences about Ex: All citizens in Mass
+Frame: List containin all embers of the population  
+Variable: Some characteristic of the population that we want to measure Ex: Income, Age
+Sample: A subset of the population of interest  
+Statistic: Fact or characteristic about the sample Ex: Avg blood pressure
+Statistical Inference: A statement about the population based on data collected in the sample
+
+Ch2: Data
+
+Do we have good measurements??
+  1. Is the concept being studied adequately reflected by the measurements?
+    -What should be measured
+    -How should it be measured
+  2. Is the data measured accurately
+  3. Is there sufficient data (quality and quantity) to draw a reasonable conclusion
+
+The upshot: BS in -> BS out 
+
+Scientific Method:
+  1. Get info about phenomenon being studied
+  2. Formulate a hypothesis
+  3. Collect data to test the hypothesis
+  4. Does the data support your hypothesis? If so, then you have a sound conclusion; if not, re-evaluate
+
+------------ i was copying word for word.... but lecture slides are online
+  taking speific what he says notes not
+
+placebo: a fake, mostly in pharmasudicals
+
+nominal: name
+ordinal: ranks (low / high) EX: Likert Scale
+interval: tempurature, more specific that ordinal. Ex: 60* is more than just hotter than 30*
+  *ZERO IS UNDEFINED*
+Ratio: most specific INCLUDES ZERO
+
+This scale isnt about how its coded, its about underlying data
+  Ex: 0 for male 1 for female, 1 is not > 0
+
+For interval, 0 has no big significance, it is undefined
+
+only different between interval and ratio is that zero has a significant meaning
+  Ex: $0 means no nomey, class size, age, mass
+
+a) interval
+b) ratio
+c) ordinal
+d) nominal
+e) ratio
+
+continuous quantitive variables can be on a range of values
+age is discrete if it is measured at the most specific level
+    continuous if generalizing
+
+collecting data on religious affiliation isnt discrete or continuous 
+  bc its qualitative not quantitative
+
+-gender
+-political affiliation
+-opinion
+-rate news
+
+1. qual, nominal 
+2. qual, nominal
+3. qual, nominal
+4. qual, ordinal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
