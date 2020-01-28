@@ -69,6 +69,38 @@ collecting data on religious affiliation isnt discrete or continuous
 3. qual, nominal
 4. qual, ordinal
 
+---------------------------------------------------------------------------------------
+Jan 28
+
+ASK AFTER CLASS WHY WEIGHT IS NOT DISCRETE AND IS CONTINUOUS
+
+Bar Chart / Pie chart 
+  They are for qualitative data
+  Histogram is a bar chart for quantitative data
+
+pie chart shows in terms of fractions of the whole
+
+If numerical data has natural classifications, use those; otherwise, you gotta create your own
+
+classifications
+  -Figure out how many bars you want
+  -Detwemine width of classifications (0-10, 0-15, 50-100)
+    -Max value - smallest value / # classes
+  -no empty intervals, each bar must have at least one observation
+
+always round up
+  in this ex, 8.33 -> 9
+
+
+
+
+
+
+
+
+
+
+
 
 
 
