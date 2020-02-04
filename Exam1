@@ -91,6 +91,50 @@ classifications
 always round up
   in this ex, 8.33 -> 9
 
+------------------------------------------------------------------------------------------------
+
+February 4
+
+median is the 50th percentile
+
+finding percentile - on slides. n = size of data set, p = percentile, l = location
+
+10th percentile is 28
+88th is 73
+
+the value of 73 is such that 88% of the data is less than that
+
+dont forget to round up IN an integer
+
+percentile of observation
+
+quartiles is a fancy name for 25th, 50th, 75th percentiles
+
+Q2= median
+
+These 5 numbers can craete a box and whisker plot
+X smallest, X largest, Q1, Q2, Q3
+
+kinda looks like this
+x smallest *---------|______|______|-------*x largest
+                    q1      q2     q3
+      
+left skewed = ____/|_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
